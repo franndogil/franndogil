@@ -20,7 +20,7 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 
 - 📘 **[Materias](https://github.com/franndogil/unlp-info-materias)**
 - 🚀 **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
-- 🇦🇷  **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
+- 🇦🇷   **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
 
 ### 🌟 Proyectos Personales  
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
