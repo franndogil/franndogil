@@ -33,7 +33,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 ### 📫 Contáctame  
 - 📧 **Email:** [franndogil@gmail.com]  
 - 💼 **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
-- 📷 **Instagram:** [frandogil]  
+- 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
 
 ### 📊 Estadísticas de GitHub  
 ![📈 Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franndogil&show_icons=true&theme=radical)  
