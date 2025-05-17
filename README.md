@@ -34,7 +34,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franndogil&show_icons=true&theme=radical)
 
 **🔥 Actividad Reciente**
 - ⭐ **Total Stars Earned:**  <total_stars>
@@ -45,7 +45,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 <mostrar lista de repositorios populares con enlaces>
 
 **💻 Lenguajes de Programación Utilizados**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franndogil&layout=compact&theme=radical)
 
 **📂 Número de Repositorios Creados:** <repos_count>
 
