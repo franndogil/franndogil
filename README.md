@@ -17,31 +17,6 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 
 - 📘 **[MATERIAS](https://github.com/franndogil/unlp-info-materias)**
 
-### 📚 Materias de la Facultad  
-
-<div align="center">
-  <a href="URL_DEL_REPO_CADP" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
-      CADP
-    </div>
-  </a>
-  <a href="URL_DEL_REPO_OC" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
-      OC
-    </div>
-  </a>
-  <a href="URL_DEL_REPO_AC" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
-      AC
-    </div>
-  </a>
-  <a href="URL_DEL_REPO_TALLER" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
-      Taller
-    </div>
-  </a>
-</div>
-
 ### 🌟 Proyectos Personales  
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
 
