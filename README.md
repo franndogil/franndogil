@@ -34,7 +34,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 
 ### 📊 GitHub Stats & Lenguajes Más Usados
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=franndogil&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franndogil&layout=compact&theme=radical" height="180"/>
 </p>
