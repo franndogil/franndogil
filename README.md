@@ -21,6 +21,7 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
 
 - 🚀 **[Sistema de Gestión del Centro Deportivo Universitario](https://github.com/juampiconejera/CentroEventos)**
+- 🪛 **[FMDCOMPUTACION](https://www.instagram.com/fmdcomputacion/)**
 
 ### 🛠️ Tecnologías y Herramientas  
 - 💻 **Lenguajes:** C#, Java, Pascal, JavaScript
