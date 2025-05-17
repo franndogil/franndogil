@@ -20,10 +20,26 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 ### 📚 Materias de la Facultad  
 
 <div align="center">
-  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">CADP</button>
-  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">OC</button>
-  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">AC</button>
-  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">Taller</button>
+  <a href="URL_DEL_REPO_CADP" style="text-decoration: none;">
+    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
+      CADP
+    </div>
+  </a>
+  <a href="URL_DEL_REPO_OC" style="text-decoration: none;">
+    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
+      OC
+    </div>
+  </a>
+  <a href="URL_DEL_REPO_AC" style="text-decoration: none;">
+    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
+      AC
+    </div>
+  </a>
+  <a href="URL_DEL_REPO_TALLER" style="text-decoration: none;">
+    <div style="display: inline-block; background-color: black; color: white; padding: 15px 30px; border-radius: 5px; border: 2px solid white; font-size: 18px; text-align: center; margin: 5px;">
+      Taller
+    </div>
+  </a>
 </div>
 
 ### 🌟 Proyectos Personales  
