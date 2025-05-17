@@ -21,16 +21,16 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 
 <div align="center">
   <a href="URL_DEL_REPO_CADP">
-    <img src="https://img.shields.io/badge/-CADP-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CADP">
+    <img src="URL_DE_TU_IMAGEN_CADP" alt="CADP">
   </a>
   <a href="URL_DEL_REPO_OC">
-    <img src="https://img.shields.io/badge/-OC-red?style=for-the-badge&logo=processor&logoColor=white" alt="OC">
+    <img src="URL_DE_TU_IMAGEN_OC" alt="OC">
   </a>
   <a href="URL_DEL_REPO_AC">
-    <img src="https://img.shields.io/badge/-AC-green?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="AC">
+    <img src="URL_DE_TU_IMAGEN_AC" alt="AC">
   </a>
   <a href="URL_DEL_REPO_TALLER">
-    <img src="https://img.shields.io/badge/-Taller-orange?style=for-the-badge&logo=hammer&logoColor=white" alt="Taller">
+    <img src="URL_DE_TU_IMAGEN_TALLER" alt="Taller">
   </a>
 </div>
 
