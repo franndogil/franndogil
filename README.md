@@ -39,14 +39,4 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franndogil&layout=compact&theme=radical" height="180"/>
 </p>
 
-**🔥 Actividad Reciente**
-- ⭐ **Total Stars Earned:**  <total_stars>
-- 🔥 **Total Commits (Año Actual):**  <total_commits>
-- 🌎 **Contributed to (Año Pasado):**  <repos_contributed>
-
-**🏆 Repositorios Más Populares**
-<mostrar lista de repositorios populares con enlaces>
-
-**📂 Número de Repositorios Creados:** <repos_count>
-
 ✨ ¡Gracias por visitar mi perfil! 🌟 Si te interesa colaborar en algún proyecto, ¡hablemos! 🚀  
