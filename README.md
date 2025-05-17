@@ -17,6 +17,23 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 
 - 📘 **[MATERIAS](https://github.com/franndogil/unlp-info-materias)**
 
+- ### 📚 Materias de la Facultad  
+
+<div align="center">
+  <a href="URL_DEL_REPO_CADP">
+    <img src="https://img.shields.io/badge/CADP-Programaci%C3%B3n-blue?style=for-the-badge" alt="CADP">
+  </a>
+  <a href="URL_DEL_REPO_OC">
+    <img src="https://img.shields.io/badge/OC-Organizaci%C3%B3n%20del%20Computador-red?style=for-the-badge" alt="OC">
+  </a>
+  <a href="URL_DEL_REPO_AC">
+    <img src="https://img.shields.io/badge/AC-Arquitectura%20de%20Computadoras-green?style=for-the-badge" alt="AC">
+  </a>
+  <a href="URL_DEL_REPO_TALLER">
+    <img src="https://img.shields.io/badge/Taller-Desarrollo%20Software-orange?style=for-the-badge" alt="Taller">
+  </a>
+</div>
+
 ### 🌟 Proyectos Personales  
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
 
