@@ -19,7 +19,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:  
 
 - 📘 **[MATERIAS](https://github.com/franndogil/unlp-info-materias)**
-- - 🚀 **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
+- 🚀 **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
 
 ### 🌟 Proyectos Personales  
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
