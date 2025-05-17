@@ -24,7 +24,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 - 🪛 **[FMDCOMPUTACION](https://www.instagram.com/fmdcomputacion/)**
 
 ### 🛠️ Tecnologías y Herramientas  
-- 💻 **Lenguajes:** C#, Java, Pascal, JavaScript
+- 💻 **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con maquina de 2 y 3 direcciones
 
 ### 📫 Contáctame  
 - 📧 **Email:** [franndogil@gmail.com]  
