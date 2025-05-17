@@ -17,20 +17,20 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 
 - 📘 **[MATERIAS](https://github.com/franndogil/unlp-info-materias)**
 
-- ### 📚 Materias de la Facultad  
+### 📚 Materias de la Facultad  
 
 <div align="center">
-  <a href="URL_DEL_REPO_CADP">
-    <img src="https://img.shields.io/badge/CADP-Programaci%C3%B3n-blue?style=for-the-badge" alt="CADP">
+  <a href="URL_DEL_REPO_CADP" style="text-decoration: none;">
+    <button style="background-color: #3b82f6; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">CADP</button>
   </a>
-  <a href="URL_DEL_REPO_OC">
-    <img src="https://img.shields.io/badge/OC-Organizaci%C3%B3n%20del%20Computador-red?style=for-the-badge" alt="OC">
+  <a href="URL_DEL_REPO_OC" style="text-decoration: none;">
+    <button style="background-color: #ef4444; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">OC</button>
   </a>
-  <a href="URL_DEL_REPO_AC">
-    <img src="https://img.shields.io/badge/AC-Arquitectura%20de%20Computadoras-green?style=for-the-badge" alt="AC">
+  <a href="URL_DEL_REPO_AC" style="text-decoration: none;">
+    <button style="background-color: #10b981; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">AC</button>
   </a>
-  <a href="URL_DEL_REPO_TALLER">
-    <img src="https://img.shields.io/badge/Taller-Desarrollo%20Software-orange?style=for-the-badge" alt="Taller">
+  <a href="URL_DEL_REPO_TALLER" style="text-decoration: none;">
+    <button style="background-color: #f59e0b; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">Taller</button>
   </a>
 </div>
 
