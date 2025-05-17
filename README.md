@@ -4,7 +4,7 @@ Hola, soy Franco 👋
 
 ### 📌 Sobre mí  
 
-Soy estudiante de segundo año de la Licenciatura en Informática en la UNLP, con una fuerte inclinación hacia la programación y la resolución creativa de problemas. Me interesa especialmente el desarrollo en **C#** y **Java**.  
+Soy estudiante de segundo año de la Licenciatura en Informática en la Universidad Nacional de La Plata, con una fuerte inclinación hacia la programación y la resolución creativa de problemas. Me interesa especialmente el desarrollo en **C#** y **Java**.  
 
 Tengo conocimientos sólidos en algoritmos y estructuras de datos (**listas, árboles, grafos, entre otros**), y me entusiasma aplicar la lógica para dar vida a soluciones funcionales.  
 
