@@ -12,7 +12,7 @@ Además, soy **técnico aviónico** y desde hace más de 3 años trabajo como fr
 
 Soy metódico, perseverante, y creo firmemente que cada desafío tiene una solución... sólo hay que encontrarla (o crearla 😉).  
 
-### 🏫 Repositorios de la Facultad  
+### 🏫 Estudio
 Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:  
 
 - 📘 **[MATERIAS](https://github.com/franndogil/unlp-info-materias)**
