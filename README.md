@@ -10,18 +10,12 @@ Hola, soy Franco 👋
 ### 🏫 Repositorios de la Facultad  
 Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:  
 
-- 📘 **[Repositorio 1](URL_DEL_REPO)** - Descripción breve del proyecto.  
-- 📗 **[Repositorio 2](URL_DEL_REPO)** - Descripción breve del proyecto.  
-- 📙 **[Repositorio 3](URL_DEL_REPO)** - Descripción breve del proyecto.  
-
-*(Puedes ir agregando más repositorios según vayas avanzando en tu carrera)*  
+- 📘 **[MATERIAS](URL_DEL_REPO)**
 
 ### 🌟 Proyectos Personales  
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
 
-- 🚀 **[Sistema de Gestión del Centro Deportivo Universitario](https://github.com/juampiconejera/CentroEventos)** - Descripción breve del proyecto.  
-- 🔥 **[Proyecto 2](URL_DEL_PROYECTO)** - Descripción breve del proyecto.  
-- 🎨 **[Proyecto 3](URL_DEL_PROYECTO)** - Descripción breve del proyecto.  
+- 🚀 **[Sistema de Gestión del Centro Deportivo Universitario](https://github.com/juampiconejera/CentroEventos)**
 
 ### 🛠️ Tecnologías y Herramientas  
 - 💻 **Lenguajes:** C#, Java, Pascal, JavaScript
