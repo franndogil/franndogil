@@ -45,6 +45,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 <mostrar lista de repositorios populares con enlaces>
 
 **💻 Lenguajes de Programación Utilizados**
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franndogil&layout=compact&theme=radical)
 
 **📂 Número de Repositorios Creados:** <repos_count>
