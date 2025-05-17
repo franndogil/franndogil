@@ -32,9 +32,21 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 - 💼 **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
 - 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
 
-### 📊 Estadísticas de GitHub  
-![📈 Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franndogil&show_icons=true&theme=radical)  
+### 📊 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+**🔥 Actividad Reciente**
+- ⭐ **Total Stars Earned:**  <total_stars>
+- 🔥 **Total Commits (Año Actual):**  <total_commits>
+- 🌎 **Contributed to (Año Pasado):**  <repos_contributed>
+
+**🏆 Repositorios Más Populares**
+<mostrar lista de repositorios populares con enlaces>
+
+**💻 Lenguajes de Programación Utilizados**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+**📂 Número de Repositorios Creados:** <repos_count>
 
 ✨ ¡Gracias por visitar mi perfil! 🌟 Si te interesa colaborar en algún proyecto, ¡hablemos! 🚀  
