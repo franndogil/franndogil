@@ -19,7 +19,7 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 ### 🌟 Proyectos Personales  
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
 
-- 🚀 **[Proyecto 1](URL_DEL_PROYECTO)** - Descripción breve del proyecto.  
+- 🚀 **[Proyecto 1](https://github.com/juampiconejera/CentroEventos)** - Descripción breve del proyecto.  
 - 🔥 **[Proyecto 2](URL_DEL_PROYECTO)** - Descripción breve del proyecto.  
 - 🎨 **[Proyecto 3](URL_DEL_PROYECTO)** - Descripción breve del proyecto.  
 
