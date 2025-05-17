@@ -10,7 +10,7 @@ Hola, soy Franco 👋
 ### 🏫 Repositorios de la Facultad  
 Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:  
 
-- 📘 **[MATERIAS](URL_DEL_REPO)**
+- 📘 **[MATERIAS]((https://github.com/franndogil/unlp-info-materias))**
 
 ### 🌟 Proyectos Personales  
 Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
