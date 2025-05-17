@@ -23,12 +23,8 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 - 🔥 **[Proyecto 2](URL_DEL_PROYECTO)** - Descripción breve del proyecto.  
 - 🎨 **[Proyecto 3](URL_DEL_PROYECTO)** - Descripción breve del proyecto.  
 
-*(Puedes agregar más proyectos según los vayas desarrollando)*  
-
 ### 🛠️ Tecnologías y Herramientas  
-- 💻 **Lenguajes:** [💡 Lista de lenguajes que usas]  
-- 🚀 **Frameworks:** [✨ Frameworks que usas]  
-- 💾 **Bases de datos:** [🗄️ Bases de datos que manejas]  
+- 💻 **Lenguajes:** C#, Java, Pascal, JavaScript
 
 ### 📫 Contáctame  
 - 📧 **Email:** [franndogil@gmail.com]  
