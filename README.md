@@ -27,7 +27,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 - 🪛 **[FMDCOMPUTACION](https://www.instagram.com/fmdcomputacion/)**
 
 ### 📫 Contáctame  
-- 📧 **Email:** [franndogil@gmail.com]  
+- 📧 **Email:** franndogil@gmail.com
 - 💼 **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
 - 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
 
