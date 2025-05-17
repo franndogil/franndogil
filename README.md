@@ -20,17 +20,17 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 ### 📚 Materias de la Facultad  
 
 <div align="center">
-  <a href="URL_DEL_REPO_CADP" style="text-decoration: none;">
-    <button style="background-color: #3b82f6; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">CADP</button>
+  <a href="URL_DEL_REPO_CADP">
+    <img src="https://img.shields.io/badge/-CADP-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CADP">
   </a>
-  <a href="URL_DEL_REPO_OC" style="text-decoration: none;">
-    <button style="background-color: #ef4444; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">OC</button>
+  <a href="URL_DEL_REPO_OC">
+    <img src="https://img.shields.io/badge/-OC-red?style=for-the-badge&logo=processor&logoColor=white" alt="OC">
   </a>
-  <a href="URL_DEL_REPO_AC" style="text-decoration: none;">
-    <button style="background-color: #10b981; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">AC</button>
+  <a href="URL_DEL_REPO_AC">
+    <img src="https://img.shields.io/badge/-AC-green?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="AC">
   </a>
-  <a href="URL_DEL_REPO_TALLER" style="text-decoration: none;">
-    <button style="background-color: #f59e0b; color: white; border-radius: 10px; padding: 15px 30px; font-size: 18px; border: none; cursor: pointer;">Taller</button>
+  <a href="URL_DEL_REPO_TALLER">
+    <img src="https://img.shields.io/badge/-Taller-orange?style=for-the-badge&logo=hammer&logoColor=white" alt="Taller">
   </a>
 </div>
 
