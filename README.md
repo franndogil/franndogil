@@ -32,7 +32,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 - 💼 **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
 - 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
 
-### 📊 GitHub Stats & Lenguajes Más Usados
+### 📊 Lenguajes Más Usados & GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franndogil&layout=compact&theme=radical" height="180"/>
