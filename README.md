@@ -12,6 +12,9 @@ Además, soy **técnico aviónico** y desde hace más de 3 años trabajo como fr
 
 Soy metódico, perseverante, y creo firmemente que cada desafío tiene una solución... sólo hay que encontrarla (o crearla 😉).  
 
+### 🛠️ Tecnologías y Herramientas  
+- 💻 **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
+
 ### 🏫 Estudio
 Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:  
 
@@ -22,9 +25,6 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 
 - 🚀 **[Sistema de Gestión del Centro Deportivo Universitario](https://github.com/juampiconejera/CentroEventos)**
 - 🪛 **[FMDCOMPUTACION](https://www.instagram.com/fmdcomputacion/)**
-
-### 🛠️ Tecnologías y Herramientas  
-- 💻 **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
 
 ### 📫 Contáctame  
 - 📧 **Email:** [franndogil@gmail.com]  
