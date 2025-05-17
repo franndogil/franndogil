@@ -21,16 +21,16 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 
 <div align="center">
   <a href="URL_DEL_REPO_CADP">
-    <img src="URL_DE_TU_IMAGEN_CADP" alt="CADP">
+    <img src="https://img.shields.io/badge/CADP-Programación-black?style=for-the-badge&logoColor=white" alt="CADP">
   </a>
   <a href="URL_DEL_REPO_OC">
-    <img src="URL_DE_TU_IMAGEN_OC" alt="OC">
+    <img src="https://img.shields.io/badge/OC-Organización%20del%20Computador-black?style=for-the-badge&logoColor=white" alt="OC">
   </a>
   <a href="URL_DEL_REPO_AC">
-    <img src="URL_DE_TU_IMAGEN_AC" alt="AC">
+    <img src="https://img.shields.io/badge/AC-Arquitectura%20de%20Computadoras-black?style=for-the-badge&logoColor=white" alt="AC">
   </a>
   <a href="URL_DEL_REPO_TALLER">
-    <img src="URL_DE_TU_IMAGEN_TALLER" alt="Taller">
+    <img src="https://img.shields.io/badge/Taller-Desarrollo%20Software-black?style=for-the-badge&logoColor=white" alt="Taller">
   </a>
 </div>
 
