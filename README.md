@@ -31,7 +31,7 @@ Aquí están algunos de mis proyectos personales en los que trabajo con pasión:
 - 💾 **Bases de datos:** [🗄️ Bases de datos que manejas]  
 
 ### 📫 Contáctame  
-- 📧 **Email:** [📩 Tu email]  
+- 📧 **Email:** [franndogil@gmail.com]  
 - 🌐 **Web personal:** [🔗 Tu sitio web]  
 - 💼 **LinkedIn:** [🔗 Tu perfil]  
 - 🐦 **Twitter:** [🔗 Tu Twitter]  
