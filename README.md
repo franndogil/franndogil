@@ -20,18 +20,10 @@ Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:
 ### 📚 Materias de la Facultad  
 
 <div align="center">
-  <a href="URL_DEL_REPO_CADP">
-    <img src="https://img.shields.io/badge/CADP-Programación-black?style=for-the-badge&logoColor=white" alt="CADP">
-  </a>
-  <a href="URL_DEL_REPO_OC">
-    <img src="https://img.shields.io/badge/OC-Organización%20del%20Computador-black?style=for-the-badge&logoColor=white" alt="OC">
-  </a>
-  <a href="URL_DEL_REPO_AC">
-    <img src="https://img.shields.io/badge/AC-Arquitectura%20de%20Computadoras-black?style=for-the-badge&logoColor=white" alt="AC">
-  </a>
-  <a href="URL_DEL_REPO_TALLER">
-    <img src="https://img.shields.io/badge/Taller-Desarrollo%20Software-black?style=for-the-badge&logoColor=white" alt="Taller">
-  </a>
+  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">CADP</button>
+  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">OC</button>
+  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">AC</button>
+  <button style="background-color: black; color: white; border-radius: 5px; padding: 10px 20px; font-size: 16px; border: none;">Taller</button>
 </div>
 
 ### 🌟 Proyectos Personales  
