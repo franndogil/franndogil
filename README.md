@@ -3,9 +3,10 @@
 Hola, soy Franco 👋  
 
 ### 📌 Sobre mí  
-- 💻 Apasionado por la tecnología y el desarrollo de software.  
-- ⚡ Me interesa la inteligencia artificial, el desarrollo web y el análisis de datos.  
-- 🎯 Siempre aprendiendo algo nuevo.  
+Soy estudiante de segundo año de la Licenciatura en Informática en la UNLP, con una fuerte inclinación hacia la programación y la resolución creativa de problemas. Me interesa especialmente el desarrollo en C# y Java.
+Tengo conocimientos sólidos en algoritmos y estructuras de datos (listas, árboles, grafos, entre otros), y me entusiasma aplicar la lógica para dar vida a soluciones funcionales.
+Además, soy técnico aviónico y desde hace más de 3 años trabajo como freelancer bajo mi marca FMDCOMPUTACION, reparando computadoras y ayudando a personas a recuperar sus equipos. Esa experiencia me dio no solo habilidades técnicas, sino también trato con clientes, organización y paciencia.
+Soy metódico, perseverante, y creo firmemente que cada desafío tiene una solución... sólo hay que encontrarla (o crearla 😉).
 
 ### 🏫 Repositorios de la Facultad  
 Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:  
