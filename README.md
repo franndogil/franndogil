@@ -1,5 +1,3 @@
-# 🚀 ¡Bienvenido a mi GitHub!
-
 Hola, soy Franco 👋  
 
 ### 📌 Sobre mí  
