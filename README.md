@@ -14,13 +14,11 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 - 💻 **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
 
 ### 🏫 Estudio
-Aquí encontrarás algunos de los proyectos que desarrollo en la facultad:  
 
 - 📘 **[Materias](https://github.com/franndogil/unlp-info-materias)**
 - 🚀 **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
 
 ### 🌟 Proyectos Personales  
-Aquí están algunos de mis proyectos personales en los que trabajo con pasión:  
 
 - 🪛 **[FMDCOMPUTACION](https://www.instagram.com/fmdcomputacion/)**
 - 🇦🇷 **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
