@@ -29,7 +29,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 - 📧 **Email:** franndogil@gmail.com
 - 💼 **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
 - 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
-- 📷 **Instagram:** [fmdcomputacion](https://www.instagram.com/fmdcomputacion/) 
+- 📷 **Marca:** [fmdcomputacion](https://www.instagram.com/fmdcomputacion/) 
 
 ### 📊 Lenguajes Más Usados & GitHub Stats
 
