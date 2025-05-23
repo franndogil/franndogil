@@ -18,7 +18,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 
 ### 🏫 Estudio
 
-- 📘 **[Materias](https://github.com/franndogil/unlp-info-materias-da)**
+- 📘 **[Materias](https://github.com/franndogil/unlp-info-materias)**
 - 🚀 **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
 
 ### 🌟 Proyectos Personales  
