@@ -23,13 +23,13 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 
 ### 🌟 Proyectos Personales  
 
-- 🪛 **[FMDCOMPUTACION](https://www.instagram.com/fmdcomputacion/)**
 - 🇦🇷 **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
 
 ### 📫 Contáctame  
 - 📧 **Email:** franndogil@gmail.com
 - 💼 **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
 - 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
+- 📷 **Instagra:** [fmdcomputacion](https://www.instagram.com/fmdcomputacion/) 
 
 ### 📊 Lenguajes Más Usados & GitHub Stats
 
