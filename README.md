@@ -24,7 +24,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 ### 🌟 Proyectos Personales  
 
 - 🇦🇷 **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
-- 🇦🇷 **[Calculadora de edad](https://github.com/franndogil/Age-calculator)**
+- 💻 **[Calculadora de edad](https://github.com/franndogil/Age-calculator)**
 
 ### 📫 Contáctame  
 - 📧 **Email:** franndogil@gmail.com
