@@ -35,6 +35,6 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 ### 📊 Lenguajes Más Usados & GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franndogi&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franndogil&layout=compact&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=franndogil&show_icons=true&theme=radical" height="180"/>
 </p>
