@@ -13,7 +13,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 ### 🛠️ Tecnologías y Herramientas  
 - 💻 **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
 - 🔧 **Herramientas:** Git (control de versiones), GitHub, Visual Studio (uso de extensiones como Prettier y LiveShare), Eclipse IDE (Java), Terminal de Windows, Consola de Linux, Trello, Notion
-- 📂 **Frameworks:** .NET 8.0
+- 📂 **Frameworks:** .NET 8.0, Blazor 
 
 
 ### 🏫 Estudio
