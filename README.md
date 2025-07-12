@@ -26,7 +26,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 - 🇦🇷 **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
 - 💻 **[Calculadora de edad](https://github.com/franndogil/Age-calculator)**
 
-## 📄 [Descargar mi CV](./CV-FrancoDogil.pdf)
+📄 [Descargar mi CV](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
 
 ### 📫 Contáctame  
 - 📧 **Email:** franndogil@gmail.com
