@@ -32,7 +32,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 - 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
 - 📷 **Marca:** [fmdcomputacion](https://www.instagram.com/fmdcomputacion/) 
 
-#📄 [Descargar mi CV](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
+# 📄 [Descargar mi CV](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
 
 ### 📊 Lenguajes Más Usados & GitHub Stats
 
