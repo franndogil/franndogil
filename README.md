@@ -13,7 +13,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 ### 🛠️ Tecnologías y Herramientas  
 - 💻 **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
 - 🔧 **Herramientas:** Git (control de versiones), GitHub, Visual Studio (uso de extensiones como Prettier y LiveShare), Eclipse IDE (Java), Terminal de Windows, Consola de Linux, Trello, SQLite
-- 📂 **Frameworks:** .NET 8.0, Blazor, EF Core
+- 📂 **Frameworks:** .NET 8.0, Blazor, Entity Framework Core
 
 
 ### 🏫 Estudio
@@ -25,6 +25,8 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 
 - 🇦🇷 **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
 - 💻 **[Calculadora de edad](https://github.com/franndogil/Age-calculator)**
+
+## 📄 [Descargar mi CV](./CV-FrancoDogil.pdf)
 
 ### 📫 Contáctame  
 - 📧 **Email:** franndogil@gmail.com
