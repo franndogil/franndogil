@@ -22,7 +22,7 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 ### 🏫 Estudio
 
-- 📘 **[Materias | Info UNLP](https://github.com/franndogil/materias/blob/main/README.md)**
+- 📘 **[Materias | Info UNLP](https://github.com/franndogil/materias)**
 - 🚀 **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
 
 ### 🌟 Proyectos Personales  
