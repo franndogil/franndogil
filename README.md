@@ -37,3 +37,4 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
   
 ### 📫 Marca personal  
 - 📷 **Marca:** [fmdcomputacion](https://www.instagram.com/fmdcomputacion/) 
+
