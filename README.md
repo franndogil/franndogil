@@ -1,6 +1,6 @@
 # Hola, soy Franco 👋  
 
-### 📌 Sobre mí  
+### Sobre mí  
 
 Soy estudiante de segundo año de la Licenciatura en Informática en la Universidad Nacional de La Plata, con una fuerte inclinación hacia la programación y la resolución creativa de problemas. Me interesa especialmente el desarrollo en **C#** y **Java**.  
 
@@ -12,29 +12,29 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 
 Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte IT. Me interesa sumarme a un equipo donde pueda aprender, aportar y crecer.
 
-### 📄 [Descargar mi CV](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
+### [Descargar mi CV](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
 
-### 🛠️ Tecnologías y Herramientas  
-- 💻 **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
-- 🔧 **Herramientas:** Git (control de versiones), GitHub, Visual Studio (uso de extensiones como Prettier y LiveShare), Eclipse IDE (Java), Terminal de Windows, Consola de Linux, Trello, SQLite
-- 📂 **Frameworks:** .NET 8.0, Blazor, Entity Framework Core
+### Tecnologías y Herramientas  
+- **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
+- **Herramientas:** Git (control de versiones), GitHub, Visual Studio (uso de extensiones como Prettier y LiveShare), Eclipse IDE (Java), Terminal de Windows, Consola de Linux, Trello, SQLite
+- **Frameworks:** .NET 8.0, Blazor, Entity Framework Core
 
 
-### 🏫 Estudio
+### Estudio
 
-- 📘 **[Materias | Info UNLP](https://github.com/franndogil/unlp-info-materias/blob/main/README.md)**
-- 🚀 **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
+- **[Materias | Info UNLP](https://github.com/franndogil/unlp-info-materias/blob/main/README.md)**
+- **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
 
-### 🌟 Proyectos Personales  
+### Proyectos Personales  
 
-- 🇦🇷 **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
-- 💻 **[Calculadora de edad](https://github.com/franndogil/Age-calculator)**
+- **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
+- **[Calculadora de edad](https://github.com/franndogil/Age-calculator)**
   
-### 📫 Contacto personal  
-- 📧 **Email:** franndogil@gmail.com
-- 💼 **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
-- 📷 **Instagram:** [frandogil](https://www.instagram.com/frandogil)
+### Contacto personal  
+- **Email:** franndogil@gmail.com
+- **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
+- **Instagram:** [frandogil](https://www.instagram.com/frandogil)
   
-### 📫 Marca personal  
-- 📷 **Marca:** [fmdcomputacion](https://www.instagram.com/fmdcomputacion/) 
+### Marca personal  
+- **Marca:** [fmdcomputacion](https://fmdcomputacion.com/) 
 
