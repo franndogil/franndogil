@@ -14,28 +14,36 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 ### [Descargar mi CV](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
 
+---
+
 ### Tecnologías y Herramientas  
 - **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
 - **Herramientas:** Git (control de versiones), GitHub, Visual Studio (uso de extensiones como Prettier y LiveShare), Eclipse IDE (Java), Terminal de Windows, Consola de Linux, Trello, SQLite
 - **Frameworks:** .NET 8.0, Blazor, Entity Framework Core
 
+---
 
 ### Estudio
 
 - **[Materias | Info UNLP](https://github.com/franndogil/unlp-info-materias/blob/main/README.md)**
 - **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
 
+---
+
 ### Proyectos Personales  
 
 - **[ArgenMips](https://github.com/franndogil/ArgenMips-Lenguaje-Ensamblador)**
 - **[Calculadora de edad](https://github.com/franndogil/Age-calculator)**
 - **[E-commerce y Sistema de Gestión para Gráfica Personalizada](https://github.com/franndogil/caina-web)**
-  
+
+---
+
 ### Contacto personal  
 - **Email:** franndogil@gmail.com
 - **LinkedIn:** [Franco Matias Dogil](https://www.linkedin.com/in/francomatiasdogil/)  
 - **Instagram:** [frandogil](https://www.instagram.com/frandogil)
-  
+
+---
 ### Marca personal  
 - **Marca:** [fmdcomputacion](https://fmdcomputacion.com/) 
 
