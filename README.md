@@ -16,6 +16,12 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 ---
 
+### Proyectos Personales  
+
+- **[E-commerce y Sistema de Gestión para Gráfica Personalizada](https://github.com/franndogil/caina-web)**
+
+---
+
 ### Tecnologías y Herramientas  
 - **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
 - **Herramientas:** Git (control de versiones), GitHub, Visual Studio (uso de extensiones como Prettier y LiveShare), Eclipse IDE (Java), Terminal de Windows, Consola de Linux, Trello, SQLite
@@ -27,12 +33,6 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 - **[Materias | Info UNLP](https://github.com/franndogil/unlp-info-materias/blob/main/README.md)**
 - **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
-
----
-
-### Proyectos Personales  
-
-- **[E-commerce y Sistema de Gestión para Gráfica Personalizada](https://github.com/franndogil/caina-web)**
 
 ---
 
