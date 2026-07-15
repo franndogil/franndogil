@@ -16,10 +16,15 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 ---
 
-### Proyectos realizados
+### Proyectos personales
 
 - **[E-commerce y Sistema de Gestión para Gráfica Personalizada](https://github.com/franndogil/caina-web)**
 - **[Landing Page para complejo de cabañas](https://github.com/franndogil/terraza-de-montania-web)** | Currently working
+
+### Proyectos universitarios
+
+- **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
+- **[Sistema para Centro de Actividades Deportivas | Ingeniería de Software 2](https://github.com/juampiconejera/CAD)**
 
 ---
 
@@ -33,7 +38,6 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 ### Estudio
 
 - **[Asignaturas | Lic. en Informática UNLP](https://github.com/franndogil/unlp-info-materias/blob/main/README.md)**
-- **[Sistema de Gestión del Centro Deportivo Universitario | Seminario de Lenguajes .Net](https://github.com/juampiconejera/CentroEventos)**
 
 ---
 
