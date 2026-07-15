@@ -28,10 +28,23 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 ---
 
-### Tecnologías y Herramientas  
-- **Lenguajes:** C#, Java, Pascal, JavaScript, HTML, CSS, Assembly con máquina de 2 y 3 direcciones
-- **Herramientas:** Git (control de versiones), GitHub, Visual Studio (uso de extensiones como Prettier y LiveShare), Eclipse IDE (Java), Terminal de Windows, Consola de Linux, Trello, SQLite
-- **Frameworks:** .NET 8.0, Blazor, Entity Framework Core
+### Tecnologías
+
+**Backend:** C#, .NET 10, ASP.NET Core, Blazor Server, Entity Framework Core
+
+**Frontend:** JavaScript, HTML5, CSS3, MudBlazor
+
+**Bases de Datos:** PostgreSQL, Supabase, SQLite
+
+**Cloud & Deploy:** Netlify, Railway
+
+**Control de versiones:** Git, GitHub
+
+**Gestión de proyectos:** Taiga, Trello
+
+**Herramientas:** Visual Studio 2022, Visual Studio Code, Postman
+
+**Metodologías:** Clean Architecture, SOLID, APIs REST, Scrum
 
 ---
 
