@@ -2,9 +2,9 @@
 
 ### Sobre mí  
 
-Soy estudiante de tercer año de la Licenciatura en Informática en la Universidad Nacional de La Plata, con una fuerte inclinación hacia la programación y la resolución creativa de problemas. Me interesa especialmente el desarrollo en **C#** y **Java**.  
+Soy estudiante de tercer año de la Licenciatura en Informática en la Universidad Nacional de La Plata, con una fuerte inclinación hacia la programación y la resolución creativa de problemas. Me interesa principalmente el desarrollo backend con C# y .NET, aunque también disfruto construir aplicaciones web completas y participar en todo el proceso de desarrollo.
 
-Tengo conocimientos sólidos en algoritmos y estructuras de datos (**listas, árboles, grafos, entre otros**), y me entusiasma aplicar la lógica para dar vida a soluciones funcionales.  
+Disfruto diseñar soluciones mantenibles, modelar problemas y transformar ideas en aplicaciones funcionales.
 
 Además, soy **técnico aviónico** y desde hace más de 3 años trabajo como freelancer bajo mi marca **FMDCOMPUTACION**, reparando computadoras y ayudando a personas a recuperar sus equipos. Esa experiencia me dio no solo habilidades técnicas, sino también trato con clientes, organización y paciencia.  
 
