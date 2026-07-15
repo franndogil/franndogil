@@ -18,8 +18,9 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 ### Proyectos personales
 
-- **[E-commerce y Sistema de Gestión para Gráfica Personalizada](https://github.com/franndogil/caina-web)**
+- **[E-commerce y Sistema de Gestión para CAINA Gráfica Personalizada](https://github.com/franndogil/caina-web)** | Currently working
 - **[Landing Page para complejo de cabañas](https://github.com/franndogil/terraza-de-montania-web)** | Currently working
+- **[Landing Page para FMDCOMPUTACION](https://github.com/franndogil/fmdcomputacion-web)** | Currently working
 
 ### Proyectos universitarios
 
