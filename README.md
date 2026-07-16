@@ -43,7 +43,7 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 **Gestión de proyectos:** Taiga, Trello
 
-**Herramientas:** Visual Studio 2022, Visual Studio Code, Postman
+**Herramientas:** Visual Studio, Visual Studio Code, Postman, Eclipse IDE
 
 **Metodologías:** Clean Architecture, SOLID, APIs REST, Scrum
 
