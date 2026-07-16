@@ -51,7 +51,7 @@ Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte
 
 ### Estudio
 
-- **[Asignaturas | Lic. en Informática UNLP](https://github.com/franndogil/unlp-info-materias/blob/main/README.md)**
+- **[Asignaturas | Licenciatura en Sistemas | UNLP](https://github.com/franndogil/unlp-info-materias/blob/main/README.md)**
 
 ---
 
