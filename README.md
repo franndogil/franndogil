@@ -12,7 +12,7 @@ Soy metódico, perseverante, y creo firmemente que cada desafío tiene una soluc
 
 Actualmente busco mi primera oportunidad laboral en desarrollo backend o soporte IT. Me interesa sumarme a un equipo donde pueda aprender, aportar y crecer.
 
-### [Descargar mi CV](https://github.com/franndogil/cv/raw/main/CURRICULUM%20VITAE%20-%20Franco%20Dogil.pdf)
+### [Descargar mi CV](https://github.com/franndogil/cv/blob/main/CURRICULUM%20VITAE%20-%20Franco%20Mat%C3%ADas%20Dogil.pdf)
 
 ---
 
